@@ -1,3 +1,3 @@
 # Data-Science-Hackathon-2023- UT-Austin
-## Energy A.I. Hackathon 2023 Problem Description
-### Goal: Develop a data analytics and machine learning workflow in Python to:  prediction / classification "fail" or "not fail" within 30 days for 40 artificial lift Electronic Submersible Pumpsuan Yang Sponsor: ComboCurve Inc., Pioneer Oil Company Inc., Chevron and Baker Hughes
+This repository is a part of 2023 Energy AI Hackathon i partcipated at The University of Texas at Austin. We were challenged to take on machine learning predictions for Electrical Submersible Pumps to predict failure in the next 30 days using incomplete production data
+
